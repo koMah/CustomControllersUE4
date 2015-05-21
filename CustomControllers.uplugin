@@ -1,0 +1,18 @@
+{
+    "FileVersion" : 3,
+
+    "FriendlyName" : "Custom Controllers Plugin",
+    "Version" : 1,
+    "FriendlyVersion" : "1.0",
+    "EngineVersion" : 1579795,
+    "Description" : "An example of a plugin which declares its own UObject type. This can be used as a starting point when creating your own plugin.",
+    "Category" : "Controllers",
+
+    "Modules" :
+    [
+        {
+            "Name" : "CustomControllers",
+            "Type" : "Runtime"
+        }
+    ]
+}
